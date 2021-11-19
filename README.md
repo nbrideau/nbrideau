@@ -5,4 +5,4 @@ I cut my teeth programming in BASIC on the Atari 1600XL. I have decades of exper
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats-nbrideau.vercel.app/api?username=nbrideau&count_private=true&show_icons=true)](https://github.com/nbrideau)
-[![Top Langs](https://github-readme-stats-nbrideau.vercel.app/api/top-langs/?username=nbrideau&layout=compact&count_private=true&langs_count=10)](https://github.com/nbrideau)
+[![Top Langs](https://github-readme-stats-nbrideau.vercel.app/api/top-langs/?username=nbrideau&layout=compact&langs_count=10)](https://github.com/nbrideau)
