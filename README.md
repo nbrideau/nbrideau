@@ -1,6 +1,6 @@
 ### Neil Brideau - Software Engineer.
 
-I cut my teeth programming in BASIC on the Atari 1600XL. I have decades of experience encompasing a vast array of technologies. Mostly centered around back-end development including databases, network programming, multithreaded programming. Most of this has been centered on Linux, Gentoo user since 2001, but I have experience on all other platforms.
+I cut my teeth programming in BASIC on the Atari 1600XL. I have decades of experience encompasing a vast array of technologies. Mostly centered around back-end development including databases, network programming, multithreaded programming. Most of this has been centered on Linux, Gentoo user since 2001.
 
 ---
 
